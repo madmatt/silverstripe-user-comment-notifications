@@ -1,0 +1,27 @@
+{
+	"name": "madmatt/silverstripe-user-comment-notifications",
+	"description": "Extends the silverstripe/comments module with the ability for users to get notified when further comments are posted on an object they've commented on",
+	"type": "silverstripe-module",
+	"homepage": "https://github.com/madmatt/silverstripe-user-comment-notifications",
+	"license": "WTFPL",
+	"keywords": [
+		"silverstripe", 
+		"comments", 
+		"comment-notifications"
+	],
+	
+	"authors": [
+		{ 
+			"name": "Matt Peel",
+			"email": "signups@madman.net.nz"
+		}
+	],
+	"support": {
+		"issues": "https://github.com/madmatt/silverstripe-user-comment-notifications/issues"
+	},
+	"require": {
+		"silverstripe/cms": "3.0.*",
+		"silverstripe/framework": "3.0.*",
+		"silverstripe/comments": "master"
+	}
+}
