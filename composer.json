@@ -23,5 +23,8 @@
 		"silverstripe/cms": "3.0.*",
 		"silverstripe/framework": "3.0.*",
 		"silverstripe/comments": "master"
+	},
+	"extra": {
+		"installer-name": "user-comment-notifications"
 	}
 }
