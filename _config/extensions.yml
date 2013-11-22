@@ -1,0 +1,9 @@
+Comment:
+  extensions:
+    - CommentUserNotificationsExtension
+CommentingController:
+  extensions:
+    - CommentingControllerUserNotificationsExtension
+Controller:
+  extensions:
+    - ControllerCommentUserNotificationsExtension
